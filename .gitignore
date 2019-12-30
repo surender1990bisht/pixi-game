@@ -1,0 +1,10 @@
+# gitignore file in case git is being used to maintain the repository of project
+# Dependency directories
+node_modules
+
+# Distribution directory
+dist
+
+# Optional npm cache directory
+.npm
+package-lock.json
